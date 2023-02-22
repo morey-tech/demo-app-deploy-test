@@ -3,3 +3,8 @@ kind: Kustomization
 
 resources:
 - ../../base
+
+images:
+- name: ghcr.io/argocon2022-workshop/demo-app-test
+  newName: ghcr.io/morey-tech/demo-app-test
+  newTag: 855820e4bdda128ee487c82875fb71e51e3dc73d
