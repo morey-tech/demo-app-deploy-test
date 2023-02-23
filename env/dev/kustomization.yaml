@@ -7,4 +7,4 @@ resources:
 images:
 - name: ghcr.io/argocon2022-workshop/demo-app
   newName: ghcr.io/morey-tech/demo-app-test
-  newTag: 157dcefebb9d677f856c8e2289f40ec6f5c9e4b4
+  newTag: ec5f6981f7103f2777ccb51627560bb6a50ee69d
